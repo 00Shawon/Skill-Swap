@@ -1,19 +1,4 @@
-# React + Vite
-
-Project Name: Skill-Swap
-Project Live Link: https://skill-swap-01.netlify.app/
-
-
-
-# ✅ **GitHub Repository Description (Short)**
-
-**Skill-Swap** is a platform where users can exchange skills, offer services, and learn from each other.
-🔗 **Live Link:** https://skill-swap-01.netlify.app/
-🛠 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
-
----
-
-# 🧾 **README.md (Full Version)**
+# 🧾 **README.md **
 
 Below is your full README. You can copy-paste it directly into your repository:
 
@@ -156,7 +141,3 @@ JWT_SECRET=your_secret_key
 * Pull Requests are welcome
 
 ---
-
-If you want, I can **format this directly into your README file style**, or **add badges, tables, icons, or UI preview** to make it more professional.
-
-Want an even more beautiful **README with icons, shields, and color formatting**?
