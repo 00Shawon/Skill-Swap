@@ -1,9 +1,5 @@
 # 🧾 **README.md **
 
-Below is your full README. You can copy-paste it directly into your repository:
-
----
-
 # **Skill-Swap – Exchange Skills, Learn & Grow**
 
 Skill-Swap is a web platform where people can exchange their skills, help each other, and grow together. Users can offer services, request services from others, and collaborate based on mutual skills.
@@ -14,7 +10,6 @@ Skill-Swap is a web platform where people can exchange their skills, help each o
 
 👉 **Live Link:** https://skill-swap-01.netlify.app/
 👉 **Client Repo:** [https://github.com/00Shawon/Skill-Swap](https://github.com/00Shawon/Skill-Swap)
-👉 **Server Repo (if separate):** *Add link if applicable*
 
 ---
 
@@ -135,7 +130,7 @@ JWT_SECRET=your_secret_key
 
 ## 🔗 **Relevant Links**
 
-* Live Website: (Add link)
+* Live Website: https://skill-swap-01.netlify.app/
 * GitHub Profile: [https://github.com/00Shawon](https://github.com/00Shawon)
 * Issues / Bug Reports: Use the GitHub Issues tab
 * Pull Requests are welcome
